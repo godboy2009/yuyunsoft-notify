@@ -1,2 +1,1 @@
-# yuyunsoft-notify
-±¾³ÌÐòÖ÷ÒªÊÇÓÉspringboot¼¯³ÉÁËrabbitmqÀ´ÊµÏÖÏûÏ¢·¢ËÍºÍ½ÓÊÕ¡£
+æœ¬ç¨‹åºä¸»è¦æ˜¯ç”±springbooté›†æˆäº†rabbitmqæ¥å®žçŽ°æ¶ˆæ¯å‘é€å’ŒæŽ¥æ”¶ã€‚
